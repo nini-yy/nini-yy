@@ -1,4 +1,36 @@
-## Hi there 👋
+### Hello, I'm Stephanie! 👨‍💻
+But you can call me Nini. I'm a sophomore at Carnegie Mellon University majoring in AI
+- <a href="https://github.com/joshmadakor1">github</a>
+- <a href="https://www.linkedin.com/in/stephanie-yang-83958b296/">linkedin</a> </h1>
+
+#### CS Projects:
+
+- [Hough Transform Source Code](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SAT Synonym Solver](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Markov Chain Music Generator](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Robotics?? Image Parser](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+#### Kaggle Projects:
+- [Mechanisms of Action](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Housing Prices](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **nini-yy/nini-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
