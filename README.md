@@ -5,15 +5,11 @@ But you can call me Nini. I'm a sophomore at Carnegie Mellon University majoring
 
 #### CS Projects:
 
-- [Hough Transform Source Code](https://github.com/joshmadakor1/Algorithms-Practice)
-- [SAT Synonym Solver](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Markov Chain Music Generator](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Robotics?? Image Parser](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Hough Transform Source Code]
 
 
 #### Kaggle Projects:
-- [Mechanisms of Action](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Housing Prices](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Mechanisms of Action](https://www.kaggle.com/code/stephanieyang17/tabnet-original)
 
 
 
