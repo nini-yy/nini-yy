@@ -1,5 +1,5 @@
 ### Hello, I'm Stephanie! 👨‍💻
-But you can call me Nini. I'm a sophomore at Carnegie Mellon University majoring in AI
+I'm a sophomore at Carnegie Mellon University majoring in CS+AI
 - <a href="https://github.com/joshmadakor1">github</a>
 - <a href="https://www.linkedin.com/in/stephanie-yang-83958b296/">linkedin</a> </h1>
 
