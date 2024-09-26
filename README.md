@@ -6,6 +6,7 @@ I'm a sophomore at Carnegie Mellon University majoring in CS+AI
 #### CS Projects:
 
 - [Hough Transform Source Code]
+- [SAT synonym solver using Word2Vec](https://github.com/nini-yy/SATsynonymsolver/tree/main)
 
 
 #### Kaggle Projects:
