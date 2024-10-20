@@ -5,7 +5,7 @@ I'm a sophomore at Carnegie Mellon University majoring in CS+AI
 
 #### CS Projects:
 
-- [Hough Transform Source Code]
+- [Hough Transform Source Code](https://github.com/nini-yy/houghtransformsource/tree/main)
 - [SAT synonym solver using Word2Vec](https://github.com/nini-yy/SATsynonymsolver/tree/main)
 
 
