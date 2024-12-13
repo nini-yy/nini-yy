@@ -1,4 +1,4 @@
-### Hello, I'm Stephanie! 👨‍💻
+<!--### Hello, I'm Stephanie! 👨‍💻
 I'm a sophomore at Carnegie Mellon University majoring in CS+AI
 - <a href="https://github.com/joshmadakor1">github</a>
 - <a href="https://www.linkedin.com/in/stephanie-yang-83958b296/">linkedin</a> </h1>
@@ -13,7 +13,7 @@ I'm a sophomore at Carnegie Mellon University majoring in CS+AI
 #### Kaggle Projects:
 - [Mechanisms of Action](https://www.kaggle.com/code/stephanieyang17/tabnet-original)
 
-
+-->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
